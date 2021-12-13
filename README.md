@@ -1,1 +1,2 @@
 Created a password generator with starter code. I didn't add anything to the Index.Html file or CSS. I updated and added all the code in the script.js file. When opening the website you'll be prompted to choose the password length, uppercase, lowercase, numbers, and special characters. Once the prompts are answered then you'll recieve the customized password. 
+![IMG](https://user-images.githubusercontent.com/94037098/145742708-07d6a255-0c2b-4677-927c-f297b3ab0b91.png)
